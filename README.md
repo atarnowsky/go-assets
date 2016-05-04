@@ -2,12 +2,18 @@
 Various ressources (i.e. images) related to the board game 'Go'
 
 ## Aim of this project
+_**TODO**_
 
 ## Contributing
+_**TODO**_
 
 ## File and directory structure
+_**TODO**_
 
 ## Change log
+
+**May 2016**
+ * Added first set of stones and boards that are already in use in [waltheri/wgo.js](https://github.com/waltheri/wgo.js) and [go-de/learn-go](https://github.com/go-de/learn-go)
 
 ## Copying and License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
