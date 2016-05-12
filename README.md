@@ -1,14 +1,8 @@
 # go-assets
 Various ressources (i.e. images) related to the board game 'Go'
 
-## Aim of this project
-_**TODO**_
-
 ## Contributing
-_**TODO**_
-
-## File and directory structure
-_**TODO**_
+In case you made some Go related images - non-realistic (vector) graphics, etc. are also welcome - and want to share them, feel free to create a pull request. Please try to follow the given directory structure to allow for easier merging. In case you want to use a different license for your images, just place a LICENSE file in the corresponding subfolders. Contributions will also be made visible within the README.md.
 
 ## Change log
 
