@@ -6,6 +6,7 @@ The stone images are used in the following projects:
  * [go-de/learn-go](https://github.com/go-de/learn-go), an interactive Go tutorial
  * The javascript library [WGo.js](https://github.com/waltheri/wgo.js)
  * The [wgo.js Theme for Sabaki](https://github.com/3kakakhel/sabaki-wgojs-theme)
+ * [BesoGo](https://github.com/yewang/besogo), an embeddable SGF player
  
 ## Contributing
 In case you made some Go related images - non-realistic (vector) graphics, etc. are also welcome - and want to share them, feel free to create a pull request. Please try to follow the given directory structure to allow for easier merging. In case you want to use a different license for your images, just place a LICENSE file in the corresponding subfolders. Contributions will also be made visible within the README.md.
